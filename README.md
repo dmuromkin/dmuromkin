@@ -1,16 +1,29 @@
-## Hi there 👋
+## Обо мне (About me)
 
-<!--
-**dmuromkin/dmuromkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик веб приложений на платформе **ASP .NET** и **React** приложений. Хорошо владею английским языком, умею читать техническую документацию.
 
-Here are some ideas to get you started:
+I'm web developer of **ASP .NET** & **React applications**. I have a good English language base, so I can read technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Образование 
+
+- ИГЭУ имени В.И. Ленина (2014-2018) "Програмная инженерия" бакалавр
+- ИГЭУ имени В.И. Ленина (2018-2020) "Програмная инженерия" магистр
+- ИГЭУ имени В.И. Ленина (2014-2017) "Переводчик в сфере профессиональной коммуникации (английский язык)"
+
+## Education 
+
+- ISPU (2014-2018) "Programming" 	Bachelor of Science
+- ISPU (2018-2020) "Programming" Master of Science
+- ISPU (2014-2017) "Translator (English-Russian)"
+
+## Ключевые навыки
+- ООП
+- C#
+- Javascript
+- GIT
+
+## My skills
+- object-oriented programming
+- C#
+- Javascript
+- GIT
