@@ -1,29 +1,46 @@
-## Обо мне (About me)
+# 👋 Привет! Меня зовут Дмитрий. Я ML и Web разработчик / Hi, my name is Dmitriy. I'm ML & Web Developer
 
-Я разработчик веб приложений на платформе **ASP .NET** и **React** приложений. Хорошо владею английским языком, умею читать техническую документацию.
+## 🧠 Обо мне / About Me
 
-I'm web developer of **ASP .NET** & **React applications**. I have a good English language base, so I can read technical documentation.
+Я разработчик веб-приложений на базе **ASP.NET** и **React**, а также начинающий ML-инженер. Уверенно владею английским языком, читаю и понимаю техническую документацию, постоянно развиваюсь в области машинного обучения и искусственного интеллекта. На данный момент мне наиболее интересны темы **компьютерного зрения** и **создания экспертных RAG-систем**.
 
-## Образование 
+I'm a web developer proficient in **ASP.NET** and **React**, currently expanding my expertise in **Machine Learning** and **Neural Networks**. I have a good English knowledge base and can confidently work with technical documentation. Currently, I'm most interested in **computer vision** and **building expert RAG (Retrieval-Augmented Generation) systems**.
 
-- ИГЭУ имени В.И. Ленина (2014-2018) "Програмная инженерия" бакалавр
-- ИГЭУ имени В.И. Ленина (2018-2020) "Програмная инженерия" магистр
-- ИГЭУ имени В.И. Ленина (2014-2017) "Переводчик в сфере профессиональной коммуникации (английский язык)"
+---
 
-## Education 
+## 🛠️ Навыки / My Skills
 
-- ISPU (2014-2018) "Programming" 	Bachelor of Science
-- ISPU (2018-2020) "Programming" Master of Science
-- ISPU (2014-2017) "Translator (English-Russian)"
+### 💻 Языки и инструменты / Languages & Tools
 
-## Ключевые навыки
-- ООП
-- C#
-- Javascript
-- GIT
+- **Python**
+- **OpenCV** 
+- **TensorFlow / Keras**   
+- **C#*
+- **JavaScript / React** 
+- **GIT** 
+- **OOP**
 
-## My skills
-- object-oriented programming
-- C#
-- Javascript
-- GIT
+---
+
+## PET проекты:
+### 📌 Экспертная RAG-система 
+Разработал систему ответов на вопросы сотрудников на основе внутренних документов компании. Используется Retrieval-Augmented Generation (RAG) для поиска релевантной информации и генерации точных ответов. [**Ссылка на проект**](https://github.com/dmuromkin/zont_neuro-employee)
+
+**Стек:** Python, OpenAI, nemoguardrails
+
+### 📌 Классификация животных 
+Разработал систему классификаци животных по входному изображению. Для удобства тестирования добавил простой интерфейс с помощью библиотеки streamlit  [**Ссылка на проект**](https://github.com/dmuromkin/wild_cats_streamlit)
+
+**Стек:** Python, Tensorflow, Streamlit
+
+
+## 🎓 Образование / Education
+
+- **ИГЭУ имени В.И. Ленина** (2014–2018) — Бакалавр, *Программная инженерия*  
+- **ИГЭУ имени В.И. Ленина** (2018–2020) — Магистр, *Программная инженерия*  
+- **ИГЭУ имени В.И. Ленина** (2014–2017) — *Переводчик в сфере профессиональной коммуникации (английский язык)*  
+- **The Founder: Разработчик нейросетей** — Профессиональная переподготовка
+
+---
+
+
